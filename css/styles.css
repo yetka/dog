@@ -1,0 +1,12 @@
+.btn-white {
+  cursor: pointer;
+}
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
